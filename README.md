@@ -4,6 +4,8 @@ This repository is a work in progress.
 
 # Issues, Errors, Comments, Contributions
 
+# Reading this book
+
 ## Chapters
 
 # Source code
